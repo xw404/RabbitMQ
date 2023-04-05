@@ -1,0 +1,24 @@
+server:
+  port: 8090
+spring:
+  datasource:
+    url: jdbc:mysql://127.0.0.1:3306/mq-producer?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
+    driverClassName: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    username: root
+    password: 123456
+    maxActive: 1000
+    initialSize: 100
+    maxWait: 60000
+    minIdle: 500
+  rabbitmq:
+    username: itcast
+    password: 123321
+    host: 192.168.101.140
+
+mybatis:
+  configuration:
+    default-fetch-size: 100
+    default-statement-timeout: 3000
+    map-underscore-to-camel-case: true
+  mapperLocations: classpath:org/example/mapper/*Mapper.xml

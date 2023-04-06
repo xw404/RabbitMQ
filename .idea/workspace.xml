@@ -5,129 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b1835096-8b2d-4df6-8468-d03b68cd1d3f" name="变更" comment="init">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_13_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_37.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_37.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_30.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_amqp_2_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_amqp_spring_rabbit_2_2_9_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_amqp_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_3_2_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_2_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_2_8_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_26.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-demo/src/main/java/org/example/ConsumerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-demo/src/main/java/org/example/_06_boot/_01_hello/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-demo/src/main/java/org/example/_06_boot/_02_work/Consumer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-demo/src/main/java/org/example/_06_boot/_02_work/Consumer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-demo/src/main/java/org/example/_06_boot/_03_pubsub/Consumer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-demo/src/main/java/org/example/_06_boot/_03_pubsub/Consumer4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-demo/src/main/java/org/example/_06_boot/_04_routing/Consumer5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-demo/src/main/java/org/example/_06_boot/_04_routing/Consumer6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-demo/src/main/java/org/example/_06_boot/_05_topic/Consumer7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-demo/src/main/java/org/example/_06_boot/_05_topic/Consumer8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-demo/src/main/java/org/example/ProducerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-demo/src/main/java/org/example/_06_boot/SendController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-demo/src/main/java/org/example/_06_boot/SendControllerPubSub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-demo/src/main/java/org/example/_06_boot/SendControllerRouting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-demo/src/main/java/org/example/_06_boot/SendControllerTopic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-demo/src/main/java/org/example/_06_boot/SendControllerWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/producer-demo/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/ConsumerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/domain/AccountLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/domain/OperateIntergralVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/domain/UsableIntegral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/mapper/AccountLogMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/mapper/AccountLogMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/mapper/UsableIntegralMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/mapper/UsableIntegralMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/mq/MQOrderListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/service/IIntegralService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/service/impl/IntegralServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/resources/db/t_usable_integral.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-producer/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/org/example/ProducerApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/org/example/controller/OrderInfoController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/org/example/domain/OperateIntergralVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/org/example/domain/OrderInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/org/example/mapper/OrderInfoMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/org/example/mapper/OrderInfoMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/org/example/service/IOrderInfoService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/java/org/example/service/impl/OrderInfoServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rabbitmq-producer/src/main/resources/db/t_order_info.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_rabbitmq_amqp_client_5_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/test/java/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RabbitMQ.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/consumer-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/consumer-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_01_hello/Consumer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_01_hello/Consumer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_01_hello/Consumer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_01_hello/Consumer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_01_hello/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_01_hello/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_02_work/Consumer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_02_work/Consumer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_02_work/Consumer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_02_work/Consumer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_02_work/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_02_work/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_02_work/Consumer1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_02_work/Consumer1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_02_work/Consumer1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_02_work/Consumer1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_02_work/Consumer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_02_work/Consumer1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_03_pubsub/Consumer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_03_pubsub/Consumer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_03_pubsub/Consumer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_03_pubsub/Consumer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_03_pubsub/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_03_pubsub/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_03_pubsub/Consumer1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_03_pubsub/Consumer1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_03_pubsub/Consumer1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_03_pubsub/Consumer1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_03_pubsub/Consumer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_03_pubsub/Consumer1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_04_routing/Consumer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_04_routing/Consumer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_04_routing/Consumer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_04_routing/Consumer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_04_routing/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_04_routing/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_04_routing/Consumer1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_04_routing/Consumer1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_04_routing/Consumer1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_04_routing/Consumer1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_04_routing/Consumer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_04_routing/Consumer1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_05_topic/Consumer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_05_topic/Consumer$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_05_topic/Consumer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_05_topic/Consumer$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_05_topic/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_05_topic/Consumer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_05_topic/Consumer1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_05_topic/Consumer1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_05_topic/Consumer1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_05_topic/Consumer1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_05_topic/Consumer1.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-demo/target/classes/org/example/_05_topic/Consumer1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producer-demo/producer-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/producer-demo/producer-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producer-demo/target/classes/org/example/_01_hello/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/producer-demo/target/classes/org/example/_01_hello/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producer-demo/target/classes/org/example/_02_work/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/producer-demo/target/classes/org/example/_02_work/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producer-demo/target/classes/org/example/_03_pubsub/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/producer-demo/target/classes/org/example/_03_pubsub/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producer-demo/target/classes/org/example/_04_routing/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/producer-demo/target/classes/org/example/_04_routing/Producer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/producer-demo/target/classes/org/example/_05_topic/Producer.class" beforeDir="false" afterPath="$PROJECT_DIR$/producer-demo/target/classes/org/example/_05_topic/Producer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/domain/OperateIntergralVo.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/domain/OperateIntergralVo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/mapper/UsableIntegralMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/mapper/UsableIntegralMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/mq/MQOrderListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/mq/MQOrderListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/service/impl/IntegralServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/service/impl/IntegralServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,7 +58,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/Java_materials/rabbitmq/RabbitMQ/rabbitmq-producer/src/main/resources",
+    "last_opened_file_path": "C:/Users/86152/Desktop/案例/rocketmq",
     "settings.editor.selected.configurable": "MavenSettings",
     "spring.configuration.checksum": "89157f76916df2d4e5c39e2c28812298",
     "vue.rearranger.settings.migration": "true"
@@ -204,7 +87,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ProducerApp (1)">
+  <component name="RunManager" selected="Spring Boot.ConsumerApp (1)">
     <configuration name="Producer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example._05_topic.Producer" />
       <module name="producer-demo" />
@@ -277,7 +160,7 @@
       <updated>1680596258141</updated>
       <workItem from="1680596259738" duration="10421000" />
       <workItem from="1680662887402" duration="9354000" />
-      <workItem from="1680758837130" duration="8713000" />
+      <workItem from="1680758837130" duration="12401000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1680663289163</created>
@@ -286,7 +169,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680663289163</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1680771681357</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680771681357</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +187,34 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -314,11 +231,6 @@
           <properties class="org.springframework.amqp.AmqpIllegalStateException" package="org.springframework.amqp" />
           <option name="timeStamp" value="1" />
         </breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/rabbitmq-consumer/src/main/java/org/example/mq/MQOrderListener.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

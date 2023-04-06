@@ -1,0 +1,13 @@
+server:
+  port: 8002
+
+spring:
+  rabbitmq:
+    host: 192.168.101.139
+    username: itcast
+    password: 123321
+    #work模式签收模式配置
+    listener:
+      simple:
+        acknowledge-mode: manual
+        prefetch: 1

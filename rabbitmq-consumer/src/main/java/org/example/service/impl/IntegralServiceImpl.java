@@ -7,12 +7,14 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import javax.annotation.Resource;
+
 /**
  * Created by lanxw
  */
 @Service
 public class IntegralServiceImpl implements IIntegralService {
-    @Autowired
+    @Resource
     private UsableIntegralMapper usableIntegralMapper;
     @Override
     @Transactional
